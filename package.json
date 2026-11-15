@@ -9,6 +9,6 @@
     "screenshots": "node scripts/screenshots.mjs --serve"
   },
   "devDependencies": {
-    "playwright": "1.57.0"
+    "playwright": "1.65.1"
   }
 }
